@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anand Sharma</h1>
-<h3 align="center">🚀 Full-Stack Developer | 💡 Product Thinker | 🛠️ Project Manager | 💬 Stock Market Analyst U</h3>
+<h3 align="center">🚀 Full-Stack Developer | 🧠 Product-Minded Engineer | 🌱 Learning Project Management | 📊 Stock Market Explorer
+ </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Product+Enthusiast;Blockchain+Explorer;Always+Learning&center=true&width=500&height=45">
