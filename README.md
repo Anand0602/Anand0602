@@ -69,11 +69,7 @@ In addition to software development, I have experience in:
       <img src="https://streak-stats.demolab.com?user=Anand0602&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anand0602&layout=compact&theme=radical&langs_count=6" />
-    </td>
-  </tr>
+  
 </table>
 
 
