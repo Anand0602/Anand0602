@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anand Sharma</h1>
-<h3 align="center">🚀 Full-Stack Developer | 💡 Product Thinker | 🛠️ Project Manager | 💬 Mentor</h3>
+<h3 align="center">🚀 Full-Stack Developer | 💡 Product Thinker | 🛠️ Project Manager | 💬 Stock Market Analyst U</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Product+Enthusiast;Blockchain+Explorer;Always+Learning&center=true&width=500&height=45">
@@ -62,14 +62,20 @@ In addition to software development, I have experience in:
 
 <table>
   <tr>
-    <td width="50%" align="center">
-      <img src="https://readme-stats-fork-mauve.vercel.app/api?username=Anand0602&show_icons=true&theme=dark&count_private=true" />
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Anand0602&show_icons=true&theme=radical&count_private=true&hide=issues&custom_title=Anand's%20GitHub%20Stats" />
     </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats-five-roan.vercel.app?user=Anand0602&theme=dark" />
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=Anand0602&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anand0602&layout=compact&theme=radical&langs_count=6" />
     </td>
   </tr>
 </table>
+
 
 ---
 
