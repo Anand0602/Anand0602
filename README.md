@@ -60,22 +60,24 @@ In addition to software development, I have experience in:
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
 
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Anand0602&show_icons=true&theme=radical&count_private=true&hide=issues&custom_title=Anand's%20GitHub%20Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Anand0602&show_icons=true&theme=radical&count_private=true&hide=issues&title=Anand%27s%20GitHub%20Stats" alt="Anand's GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://streak-stats.demolab.com?user=Anand0602&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+      <img src="https://streak-stats.demolab.com/?user=Anand0602&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Anand's GitHub Streak" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anand0602&layout=compact&theme=radical&langs_count=6" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anand0602&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
     </td>
   </tr>
 </table>
+
 
 
 ---
