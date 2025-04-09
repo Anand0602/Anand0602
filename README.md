@@ -38,25 +38,18 @@ When I’m not coding, you’ll find me diving into emerging tech, contributing 
 <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white"> 
 
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anand0602&show_icons=true&theme=radical" alt="Anand Sharma GitHub Stats" />
+</p>
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      
-      <img src="https://readme-stats-fork-mauve.vercel.app/api?username=Anand0602&theme=dark&show_icons=true&count_private=true" alt="Anand's GitHub Stats" />
-      
-      <br />
-      
-      <img src="https://github-readme-streak-stats-five-roan.vercel.app?user=Anand0602&theme=dark" alt="Anand's GitHub Streak" />
-    
-    </td>
-    <td width="50%" align="center">
-      
-      <img src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Anand0602&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6" alt="Top Languages" />
-    
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anand0602&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Anand0602&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+</p>
+
 
 ## Connect with me
 
