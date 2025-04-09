@@ -105,8 +105,8 @@ In addition to software development, I have experience in:
 
 ## 🌍 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/anand-sharma06/)  
-- 🌐 [Portfolio](https://anand0602.github.io/)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/anand-sharma-901738228/)  
+- 🌐 [Portfolio](https://www.linkedin.com/in/anand-sharma-901738228/)
 - 💻 [GitHub](https://github.com/Anand0602)
 
 ---
