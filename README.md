@@ -37,13 +37,26 @@ When I’m not coding, you’ll find me diving into emerging tech, contributing 
 <img src="https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff"> 
 <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white"> 
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-<table><tbody><tr border="none"><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=Anand0602&theme=dark&show_icons=true&count_private=true">
-
-<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=Anand0602&theme=dark"></td><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Anand0602&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      
+      <img src="https://readme-stats-fork-mauve.vercel.app/api?username=Anand0602&theme=dark&show_icons=true&count_private=true" alt="Anand's GitHub Stats" />
+      
+      <br />
+      
+      <img src="https://github-readme-streak-stats-five-roan.vercel.app?user=Anand0602&theme=dark" alt="Anand's GitHub Streak" />
+    
+    </td>
+    <td width="50%" align="center">
+      
+      <img src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Anand0602&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6" alt="Top Languages" />
+    
+    </td>
+  </tr>
+</table>
 
 ## Connect with me
 
