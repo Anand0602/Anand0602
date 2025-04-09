@@ -1,43 +1,64 @@
-## About Me
+<h1 align="center">Hi 👋, I'm Anand Sharma</h1>
+<h3 align="center">🚀 Full-Stack Developer | 💡 Product Thinker | 🛠️ Project Manager | 💬 Mentor</h3>
 
-Hi, I'm Anand Sharma — a driven Full-Stack Developer currently working at Cozentus Technologies, where I specialize in backend development and building scalable, maintainable applications. With a strong foundation in Java, Spring Boot, SQL, and modern frontend technologies, I love crafting robust solutions that solve real-world problems.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Product+Enthusiast;Blockchain+Explorer;Always+Learning&center=true&width=500&height=45">
+</p>
 
-Beyond development, I bring strong product and project management skills to the table, backed by hands-on experience leading blockchain initiatives and coordinating cross-functional teams. Whether it's designing intuitive user experiences, managing project timelines, or aligning technical execution with business goals, I thrive in fast-paced, collaborative environments.
+---
 
-When I’m not coding, you’ll find me diving into emerging tech, contributing to open-source, or mentoring the next generation of developers through my community roles and technical networks.
+## 🧑‍💻 About Me
 
-## My Skills
+Hi, I'm **Anand Sharma** — a driven Full-Stack Developer currently working at **Cozentus Technologies**, where I specialize in **.NET backend development** and building **scalable, maintainable applications**.  
+I'm proficient in **Java, Spring Boot, SQL**, and modern frontend technologies like **Angular, TypeScript, Bootstrap**, and more.
 
-<img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
-<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff"> 
-<img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white"> 
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff"> 
-<img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"> 
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff"> 
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white"> 
-<img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white"> 
-<img src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white"> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> 
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white"> 
-<img src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff"> 
-<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"> 
-<img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"> 
-<img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white"> 
-<img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff"> 
-<img src="https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white"> 
+In addition to software development, I have experience in:
+- Leading product initiatives
+- Managing blockchain projects
+- Coordinating cross-functional teams
+- Community building and mentoring
 
-## 🚀 My GitHub Stats
+💡 I enjoy solving real-world problems with code and product-led thinking.
+
+---
+
+## 🛠️ My Tech Stack
+
+**Languages:**  
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"> 
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
+<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"> 
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">  
+<img src="https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=fff">
+
+**Frontend:**  
+<img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white"> 
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff"> 
+
+**Backend & Tools:**  
+<img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff"> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white"> 
+<img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">
+
+**DevOps & Cloud:**  
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"> 
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white"> 
+<img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"> 
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff"> 
+
+**AI & Productivity:**  
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white"> 
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff">
+
+---
+
+## 📊 GitHub Stats
 
 <table>
   <tr>
@@ -52,7 +73,7 @@ When I’m not coding, you’ll find me diving into emerging tech, contributing 
 
 ---
 
-## 📊 Most Used Languages
+## 📈 Most Used Languages
 
 <p align="center">
   <img src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Anand0602&layout=compact&theme=dark&langs_count=8" />
@@ -68,14 +89,21 @@ When I’m not coding, you’ll find me diving into emerging tech, contributing 
 
 ---
 
-## 🧠 Tech Stack
+## 📂 Featured Repositories
 
-- 💻 Languages: Java, Python, C, JavaScript, TypeScript, SQL, C#
-- 🌐 Web: HTML, CSS, Bootstrap, Angular, React (learning)
-- 🛠️ Tools: Git, GitHub, VSCode, Visual Studio, MySQL, Streamlit, Power BI
-- 📊 Domains: Web Dev, Data Analysis, Product Management, .NET Development
+- 🔹 [Decentralized Auction System](https://github.com/Anand0602/decentralized-auction) — Smart contract-based auction platform  
+- 🔹 [Timetable Management System](https://github.com/Anand0602/Timetable-Manager) — PHP & JS project to manage schedules  
+- 🔹 [YouTube Transcript Summarizer](https://github.com/Anand0602/YT-Summarizer) — Streamlit-based NLP tool  
+- 🔹 [Angular Projects](https://github.com/Anand0602/angular-projects) — Collection of beginner Angular apps  
 
 ---
 
-📫 **Let's Connect**  
-🌐 [GitHub](https://github.com/Anand0602) • [LinkedIn](https://www.linkedin.com/in/anand-sharma06/) • [Portfolio](https://anand0602.github.io/)
+## 🌍 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/anand-sharma06/)  
+- 🌐 [Portfolio](https://anand0602.github.io/)  
+- 💻 [GitHub](https://github.com/Anand0602)
+
+---
+
+⭐ _If you like my work, feel free to star any repository or follow me for more cool stuff!_
