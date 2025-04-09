@@ -37,20 +37,45 @@ When I’m not coding, you’ll find me diving into emerging tech, contributing 
 <img src="https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff"> 
 <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white"> 
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anand0602&show_icons=true&theme=radical" alt="Anand Sharma GitHub Stats" />
-</p>
+## 🚀 My GitHub Stats
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://readme-stats-fork-mauve.vercel.app/api?username=Anand0602&show_icons=true&theme=dark&count_private=true" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats-five-roan.vercel.app?user=Anand0602&theme=dark" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anand0602&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Anand0602&layout=compact&theme=dark&langs_count=8" />
 </p>
+
+---
+
+## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Anand0602&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anand0602&theme=react-dark&hide_border=true" />
 </p>
 
+---
 
-## Connect with me
+## 🧠 Tech Stack
 
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/anand-sharma-901738228/" target="_blank">Anand Sharma</a> Email: sharmaanand46444@gmail.com</p>
+- 💻 Languages: Java, Python, C, JavaScript, TypeScript, SQL, C#
+- 🌐 Web: HTML, CSS, Bootstrap, Angular, React (learning)
+- 🛠️ Tools: Git, GitHub, VSCode, Visual Studio, MySQL, Streamlit, Power BI
+- 📊 Domains: Web Dev, Data Analysis, Product Management, .NET Development
+
+---
+
+📫 **Let's Connect**  
+🌐 [GitHub](https://github.com/Anand0602) • [LinkedIn](https://www.linkedin.com/in/anand-sharma06/) • [Portfolio](https://anand0602.github.io/)
