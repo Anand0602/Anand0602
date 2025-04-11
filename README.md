@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anand Sharma</h1>
-<h3 align="center">🚀 Full-Stack Developer | 🧠 Product-Minded Engineer | 🌱 Learning Project Management | 📊 Stock Market Explorer
- </h3>
+<h3 align="center">🚀 Full-Stack Developer | 🧠 Product-Minded Engineer | 🌱 Learning Project Management | 📊 Stock Market Explorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Product+Enthusiast;Blockchain+Explorer;Always+Learning&center=true&width=500&height=45">
@@ -61,27 +60,10 @@ In addition to software development, I have experience in:
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Anand0602&show_icons=true&theme=radical&count_private=true&hide=issues&title=Anand%27s%20GitHub%20Stats" alt="Anand's GitHub Stats" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anand0602&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-
-
----
-
-## 📈 Most Used Languages
-
 <p align="center">
-  <img src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Anand0602&layout=compact&theme=dark&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anand0602&show_icons=true&theme=radical&count_private=true&hide=issues&title=Anand%27s%20GitHub%20Stats" alt="Anand's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anand0602&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
