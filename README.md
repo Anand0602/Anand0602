@@ -60,7 +60,7 @@ In addition to software development, I have experience in:
 
 ## 📊 GitHub Stats
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Anand0602)](https://github.com/LordDashMe/github-contribution-stats/)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Anand0602)](https://github.com/Anand0602/github-contribution-stats/)
 
 ---
 
