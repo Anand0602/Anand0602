@@ -60,15 +60,11 @@ In addition to software development, I have experience in:
 
 ## 📊 GitHub Stats
 
-[![Anand Sharma's GitHub Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Anand0602)](https://github.com/Anand0602/github-contribution-stats/)
+![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anand0602&show_icons=true&theme=radical)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anand0602&layout=compact&theme=radical)
 
-## 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anand0602&theme=react-dark&hide_border=true" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anand0602&theme=radical)
 
 ---
 
