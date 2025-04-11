@@ -60,11 +60,7 @@ In addition to software development, I have experience in:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anand0602&show_icons=true&theme=radical&count_private=true&hide=issues&title=Anand%27s%20GitHub%20Stats" alt="Anand's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anand0602&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
-</p>
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Anand0602)](https://github.com/LordDashMe/github-contribution-stats/)
 
 ---
 
