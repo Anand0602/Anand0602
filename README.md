@@ -68,14 +68,7 @@ In addition to software development, I have experience in:
 
 ---
 
-## 📂 Featured Repositories
 
-- 🔹 [Decentralized Auction System](https://github.com/Anand0602/decentralized-auction) — Smart contract-based auction platform  
-- 🔹 [Timetable Management System](https://github.com/Anand0602/Timetable-Manager) — PHP & JS project to manage schedules  
-- 🔹 [YouTube Transcript Summarizer](https://github.com/Anand0602/YT-Summarizer) — Streamlit-based NLP tool  
-- 🔹 [Angular Projects](https://github.com/Anand0602/angular-projects) — Collection of beginner Angular apps  
-
----
 
 ## 🌍 Let's Connect
 
